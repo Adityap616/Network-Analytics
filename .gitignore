@@ -1,0 +1,12 @@
+# Ignore virtual environment
+.venv/
+
+# Ignore GeoLite2 database
+GeoLite2-City.mmdb
+
+# Bytecode and cache
+__pycache__/
+*.py[cod]
+
+# Environment files
+.env
