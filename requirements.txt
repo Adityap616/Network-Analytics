@@ -2,3 +2,6 @@ streamlit
 pandas
 scapy
 geoip2
+pycountry
+plotly
+fpdf
